@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_input"
+        android:icon="@drawable/img"
+        android:title="Input Data" />
+    <item
+        android:id="@+id/navigation_biodata"
+        android:icon="@drawable/img_1"
+        android:title="Biodata" />
+</menu>
